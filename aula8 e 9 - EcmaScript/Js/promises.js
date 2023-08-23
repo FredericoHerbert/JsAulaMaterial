@@ -35,6 +35,3 @@ async function carregando(){
 }
 carregando()
 
-
-//perguntar sobre o e-mail do senai. 
-//até quando vai funcionar?
